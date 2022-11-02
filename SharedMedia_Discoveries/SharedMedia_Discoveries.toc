@@ -2,6 +2,7 @@
 ## Title: SharedMedia |cff3CE13FDiscoveries|r
 ## Notes: SharedMedia assets for Discoveries guild (EU-Kazzak)
 ## Author: Skruface
+## Version: 1.0
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
